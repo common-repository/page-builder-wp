@@ -1,0 +1,1 @@
+!function(t){"use strict";jQuery((function(t){t("#meta-"+wpc_posts_localize.metaId).length&&t("#meta-"+wpc_posts_localize.metaId).addClass("wpc_meta_data");var e=t("#wpc_edit_cont");setTimeout((function(){e.hide().insertAfter("#submitdiv").fadeIn(300)}),500)}))}(jQuery);

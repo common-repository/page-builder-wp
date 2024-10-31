@@ -1,0 +1,1 @@
+!function(o){"use strict";"undefined"==typeof wpc&&(window.wpc={}),window.wpc=o.extend({version:"1.1.0",author:"ghozylab.com",tools:{},data:{},ui:{},control:{},navigator:{},helpers:{},tmce:{preInt:{}}},window.wpc)}(jQuery);

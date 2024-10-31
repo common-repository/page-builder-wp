@@ -1,0 +1,7 @@
+:root {
+    --wpc-border-radius-1px: 1px;
+    --wpc-border-radius-3px: 3px;
+    --wpc-border-radius-5px: 5px;
+    --wpc-border-radius-18px: 18px;
+    --wpc-box-shadow-small-dialog: 1px 3px 10px -4px rgba(0, 0, 0, 0.35);
+}
